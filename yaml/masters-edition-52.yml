@@ -1,0 +1,109 @@
+---
+object: card
+id: d63f7944-5738-4a13-8f84-6813c188ac3a
+oracle_id: 1b9dd2b6-d14d-4c1e-9885-00ab2c0bf8da
+multiverse_ids:
+- 159774
+mtgo_id: 28143
+mtgo_foil_id: 28144
+name: Telekinesis
+lang: en
+released_at: '2007-09-10'
+uri: https://api.scryfall.com/cards/d63f7944-5738-4a13-8f84-6813c188ac3a
+scryfall_uri: https://scryfall.com/card/me1/52/telekinesis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/6/d63f7944-5738-4a13-8f84-6813c188ac3a.jpg?1559592546
+  normal: https://cards.scryfall.io/normal/front/d/6/d63f7944-5738-4a13-8f84-6813c188ac3a.jpg?1559592546
+  large: https://cards.scryfall.io/large/front/d/6/d63f7944-5738-4a13-8f84-6813c188ac3a.jpg?1559592546
+  png: https://cards.scryfall.io/png/front/d/6/d63f7944-5738-4a13-8f84-6813c188ac3a.png?1559592546
+  art_crop: https://cards.scryfall.io/art_crop/front/d/6/d63f7944-5738-4a13-8f84-6813c188ac3a.jpg?1559592546
+  border_crop: https://cards.scryfall.io/border_crop/front/d/6/d63f7944-5738-4a13-8f84-6813c188ac3a.jpg?1559592546
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Tap target creature. Prevent all combat damage that would be dealt by
+  that creature this turn. It doesn't untap during its controller's next two untap
+  steps.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: true
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 407d388d-1abf-4c1d-b0c6-f56280898a1a
+set: me1
+set_name: Masters Edition
+set_type: masters
+set_uri: https://api.scryfall.com/sets/407d388d-1abf-4c1d-b0c6-f56280898a1a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ame1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/me1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d63f7944-5738-4a13-8f84-6813c188ac3a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b9dd2b6-d14d-4c1e-9885-00ab2c0bf8da&unique=prints
+collector_number: '52'
+digital: true
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: ace13e81-f5e2-43fe-810a-c6dbfc38e237
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23058
+penny_rank: 3836
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159774
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Telekinesis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Telekinesis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Telekinesis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Telekinesis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Telekinesis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/28143?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

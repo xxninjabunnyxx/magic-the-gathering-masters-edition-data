@@ -1,0 +1,113 @@
+---
+object: card
+id: 7f371a5d-0e79-46d9-ae6c-a9eada48cd55
+oracle_id: af8eb20a-dfa2-49a4-892b-26d7e276fcd2
+multiverse_ids:
+- 159175
+mtgo_id: 27993
+mtgo_foil_id: 27994
+name: Hand of Justice
+lang: en
+released_at: '2007-09-10'
+uri: https://api.scryfall.com/cards/7f371a5d-0e79-46d9-ae6c-a9eada48cd55
+scryfall_uri: https://scryfall.com/card/me1/15/hand-of-justice?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/f/7f371a5d-0e79-46d9-ae6c-a9eada48cd55.jpg?1559592479
+  normal: https://cards.scryfall.io/normal/front/7/f/7f371a5d-0e79-46d9-ae6c-a9eada48cd55.jpg?1559592479
+  large: https://cards.scryfall.io/large/front/7/f/7f371a5d-0e79-46d9-ae6c-a9eada48cd55.jpg?1559592479
+  png: https://cards.scryfall.io/png/front/7/f/7f371a5d-0e79-46d9-ae6c-a9eada48cd55.png?1559592479
+  art_crop: https://cards.scryfall.io/art_crop/front/7/f/7f371a5d-0e79-46d9-ae6c-a9eada48cd55.jpg?1559592479
+  border_crop: https://cards.scryfall.io/border_crop/front/7/f/7f371a5d-0e79-46d9-ae6c-a9eada48cd55.jpg?1559592479
+mana_cost: "{5}{W}"
+cmc: 6.0
+type_line: Creature — Avatar
+oracle_text: "{T}, Tap three untapped white creatures you control: Destroy target
+  creature."
+power: '2'
+toughness: '6'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: true
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 407d388d-1abf-4c1d-b0c6-f56280898a1a
+set: me1
+set_name: Masters Edition
+set_type: masters
+set_uri: https://api.scryfall.com/sets/407d388d-1abf-4c1d-b0c6-f56280898a1a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ame1&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/me1?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7f371a5d-0e79-46d9-ae6c-a9eada48cd55/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf8eb20a-dfa2-49a4-892b-26d7e276fcd2&unique=prints
+collector_number: '15'
+digital: true
+rarity: rare
+flavor_text: |-
+  "The Hand of Justice will come to cleanse the world if we are true."
+  —Oliver Farrel
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: f4aef2cd-664b-49a1-a5ce-a6fce756fa00
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19450
+penny_rank: 12244
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159175
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hand+of+Justice&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hand+of+Justice&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hand+of+Justice
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Hand+of+Justice&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hand+of+Justice&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/27993?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,18 @@
+---
+object: set
+id: 407d388d-1abf-4c1d-b0c6-f56280898a1a
+code: me1
+mtgo_code: med
+arena_code: med
+name: Masters Edition
+uri: https://api.scryfall.com/sets/407d388d-1abf-4c1d-b0c6-f56280898a1a
+scryfall_uri: https://scryfall.com/sets/me1
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ame1&unique=prints
+released_at: '2007-09-10'
+set_type: masters
+card_count: 195
+printed_size: 195
+digital: true
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/me1.svg?1694404800
